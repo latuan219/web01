@@ -8,8 +8,8 @@
 </head>
 <body>
     <?php 
-    echo('xin chao');
-    // echo.'<b>'. date('Y-m-d').'</b>';
+    echo('xin chao hom nay la ngay :');
+    echo'<b>'. date('d/m/Y').'</b>';
     ?>
 </body>
 </html>
